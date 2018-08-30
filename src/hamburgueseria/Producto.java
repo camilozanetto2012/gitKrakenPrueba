@@ -11,7 +11,7 @@ public class Producto implements Cosa{
     public String getTipo() {
         return tipo;
     }
-
+  // public
     @Override
     public Double DarPrecio() {
         return null;
